@@ -1,0 +1,14 @@
+
+.card-header {
+    border-style: solid;
+    border-radius: 20px;
+    border-color: #eee;
+    border-width: 2px;
+    margin: 5px;
+    width: calc(100% - 10px );
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
